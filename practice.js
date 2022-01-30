@@ -49,7 +49,6 @@ console.log(checkMyScore);
 
 
 // factorial using for loop and function:
-
 function factorialCount(number){
     x = 1;
     for (i = 1; i <= number; i++){
@@ -63,7 +62,6 @@ console.log(checkFactorial);
 
 
 // factorial using while loop and function:
-
 function factorialCount(number){
     x = 1;
     var i = 1;
